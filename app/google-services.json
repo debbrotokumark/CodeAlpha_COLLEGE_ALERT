@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534762087874",
+    "project_id": "college-notify-f015b",
+    "storage_bucket": "college-notify-f015b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534762087874:android:4afa7b46a87ed5db74225b",
+        "android_client_info": {
+          "package_name": "com.example.collegenotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PoKmOMUSLMBsSTv6NnOyXmTtQYarkcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

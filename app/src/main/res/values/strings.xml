@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">College Notify</string>
+    <string name="homedes">Stay informed about campus events and \nmanage your schedule effortlessly!</string>
+    <string name="getstart">Get Started</string>
+    <string name="notification">Notification</string>
+    <string name="event">Event</string>
+    <string name="nonotification">You have no notifications\nright now.</string>
+    <string name="noevent">You have no event\nright now.</string>
+    <string name="nonet">No Internet</string>
+    <string name="nonetdes">Please check your internet connection</string>
+    <string name="tryagain">Try again</string>
+    <string name="my_event">My event</string>
+    <string name="add_event">Add event</string>
+    <string name="enter_event_title">Enter Event Title</string>
+    <string name="enter_event_description">Enter Event Description</string>
+    <string name="select_event_time">Select Event Time</string>
+
+
+</resources>

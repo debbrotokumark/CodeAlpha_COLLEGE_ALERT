@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CollegeNotify" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/blue</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement" tools:ignore="NewApi">true</item>
+
+         <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.CollegeNotify" parent="Base.Theme.CollegeNotify" />
+</resources>
